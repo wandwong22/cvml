@@ -1,0 +1,205 @@
+name: Wand T.K. Wong
+e-mail: wandwong22@gmail.com
+mobile: +1 (647) 999-9999
+portfolio: http://bit.ly/3AuBq2v
+
+summary: IT product manager with 20-year experience on management and coding. Also possess knowledge on AI, ML, MBA, corporate finance, graphics design, and electronic devices from various renowned US/HK universities and colleges. Achieved collaboration and project success by working with users and building trust in team.
+
+achievements:
+  - Led development of systems that distributes funds to all Hong Kong students with +20% efficiency and -30% cost.
+  - Setup data centers for ~20 government departments; monitored electricity usage and disasters in ~100 premises.
+  - Designed and implemented TV Guide distribution network for ~100,000 hard disk recorders in Japan.
+
+work experience:
+  - company: Student Finance Office (SFO)
+    business: SFO accepts financial subsidy applications from and distributes government funds to all students in Hong Kong. 
+    job title: IT (Product) Manager
+    from: 10/2014
+    to: 10/2022
+    duties or achievements:
+      - Led 10-15 analysts and 50-80 developers to design, implement, and test the core application processing system with Jakarta EE, JPA, Spring, Wildfly, Agile/DevOps, CI/CD, Git, Maven, Selenium, Trac (~JIRA), and peer code reviews.
+      - Served 1,000+ users and 500,000+ students and families on distribution of billion dollars of learning subsidies.
+      - Achieved +100% system throughput, +100% functions/reports, -30% latency, -20% application processing time, -90% incorrect payments, and -30% labor cost, meeting all KPIs. Savings were reallocated to subsidies and IT upscaling.
+      - Cross-department validation with RESTful API achieved +100% throughput, while product delivery cycle shortened to testing daily and production weekly with issue trackers, increasing schedule flexibility on releases and jobs.
+      - Reduced paper usage by 80% after switching to the new document management system, which uses hashes and tags to efficiently store petabytes of files, with multi-view directories and online editing/versioning/annotations.
+      - Web SPA application engaged 100× times more applicants than its PDF predecessor, enabling paperless processing.
+      - Customer relation service achieved +50% throughput on SMS/e-mail/printed notifications, reducing user complaints.
+      - Designed new services incl. iOS app, NLP chatbot, AI-based simple vetting (SVM / transformer), and one-stop portal.
+      - Designed a migration to government cloud as SaaS / microservices and React web apps for enhanced scalability.
+      - Services were compliant with all cybersecurity and privacy standards within the Hong Kong government.
+  - company: Electrical & Mechanical Services Trading Fund (EMSTF)
+    business: EMSTF provides software & hardware integrated solutions to all Hong Kong government departments.
+    job title: Assistant IT Manager
+    from: 07/2007
+    to: 09/2014
+    duties or achievements:
+      - Led projects of data center setup and relocations for ~20 government departments, with risk assessments, disaster drills, and contingency plans. Relocated server racks achieved 99.9% up time at reduced cost, plus rooms for growth.
+      - Designed and implemented AJAX web app, to report disaster events in ~100 government buildings in near real time.
+      - Designed and implemented video conferencing desktop app in Java Media Framework with MPEG payload on RTP.
+      - Researched and deployed HD video live broadcast / conference systems in Hong Kong City Hall and Observatory.
+      - Revised deployment of BACnet/IP on electricity consumptions in government buildings, improved latency by 5× times.
+      - Maintained OCR vehicle registration plates recognition system at Hong Kong – Mainland China border control points.
+      - Researched and procured computer equipment for ~10 government departments, under strict rules and regulations.
+  - company: Syniverse Holding Inc. (IVRS)
+    business: Syniverse delivers interactive voice response (IVR) and add-on services to mobile carriers in Hong Kong and Asia.
+    job title: Assistant Project Manager
+    from: 10/2006
+    to: 03/2007
+    duties or achievements:
+      - Led enhancement of IVR hotline call flow and mail-to-fax function for Hong Kong carriers with ~300,000 subscribers.
+      - Led setup of video call, MMS, service provisioning, call recording for a Macau carrier with ~200,000 subscribers.
+      - Led setup of voice message and SMS systems for a Vietnam startup carrier with ~100,000 subscribers.
+  - company: Artificial Life Inc.
+    business: Artificial Life sells J2ME mobile games to end users, featuring interactive intelligence gameplay.
+    job title: Project Manager
+    from: 10/2005
+    to: 09/2006
+    duties or achievements:
+      - Led 5 developers and 10 designers to research, design, implement, and launch a series of penguin and dating games to hundreds of mobile phone models, partnering with a mobile carrier with ~200,000 subscribers within a year.
+  - company: Gemstar Technology Development Ltd. (TV Guide)
+    business: Gemstar provides the TV-Guide services to US, Europe, Japan, and Taiwan.
+    job title: Senior Engineer - Research & Development
+    from: 11/2001
+    to: 09/2005
+    duties or achievements:
+      - Designed and implemented TV Guide distribution network, which translates public DVB EIT to proprietary data, for ~100,000 Panasonic hard disk recorders in Japan, with Linux-Apache-MySQL-Perl and replication/clustering.
+      - Designed and implemented J2ME mobile app for TV guide and remote recording, with major US mobile carriers.
+      - Ported the US TV Guide Channel to Europe / Taiwan in local languages, incl. partnership with Star TV.
+      - Tested and integrated a microprocessor module that adds indexing/searching to Sony/Panasonic/Philips recorders.
+  - company: DGNN / Artogram / KaiSource Systems Ltd.
+    business: KaiSource ships an enhanced edition of OpenOffice, and publishes technical articles on computing magazines.
+    job title: Software Engineer
+    from: 05/2000
+    to: 11/2001
+    duties or achievements:
+      - Contributed to Apache OpenOffice.org and enhanced its compatibility with Chinese handwriting input devices.
+      - Published a series of technical magazine articles on web and LEGO MindStorms programming.
+  - company: Orient Overseas Container Line Ltd. (OOCL)
+    business: OOCL owns 3% of market share of world’s container line services.
+    job title: Technical Analyst
+    from: 10/1998
+    to: 02/2000
+    duties or achievements:
+      - Designed and implemented object-relational mapping, translation to OLAP data warehouses, refactoring of Sybase API, and integration with Mainframe via OOP, which was 10× times faster and a key component in Y2K switch over. 
+  - company: Motorola Asia Pacific Ltd.
+    business: Technical Support Engineer
+    job title: Technical Support Engineer
+    from: 12/1994
+    to: 12/1997
+    duties or achievements:
+      - Performed quality assurance and field testing on new phones and firmware in Mainland China, and trained hundreds of technicians on phone repair and tools/equipment. Also designed a software for repair center workflow.
+
+education:
+  - school: Georgia Institute of Technology
+    degree: Master
+    field of study: Computer Science (Interactive Artificial Intelligence)
+    from: 2019
+    to: 2022
+    GPA: 4.0
+  - school: Open University of Hong Kong
+    degree: Master
+    field of study: Business Administration
+    from: 2010
+    to: 2016
+  - school: DesignFirst College
+    degree: Diploma
+    field of study: Commercial Design (Graphics)
+    from: 1998
+    to: 2001
+  - school: Chinese University of Hong Kong
+    degree: Bachelor
+    field of study: Electronic Engineering
+    from: 1989
+    to: 1993
+
+professional certificates:
+  - certifier: WSET
+    certified: level 3 sake sommelier (with distinction)
+    certify date: 2022
+  - certifier: Oracle University
+    certified: Oracle Certified Master (Java EE 5 Enterprise Architect)
+    certify date: 2011
+  - certifier: Oracle University
+    certified: Oracle Certified Professional (Database 11g Administrator)
+    certify date: 2011
+  - certifier: Oracle University
+    certified: Oracle Certified Associate (Database 11g Administrator)
+    certify date: 2011
+  - certifier: PMI
+    certified: Project Management Professional (PMP)
+    certify date: 2008
+  - certifier: ISC2
+    certified: Certified Information Systems Security Professional (CISSP)
+    certify date: 2007
+
+study projects:
+  - Playing Google Football with the new QMAT Dec-POMDP attention on RLlib at +20-400% win rate over QMIX/VDN.
+  - Re-designed Amazon UI for product review, received award on exemplary project and entered project showcase.
+  - Simulated trading of JPM stock with 4× time gain by Q-learning.
+  - Proposed ways to mitigate racial bias on housing ad targeting in ML pipeline, in Facebook – DOJ legal settlement.
+  - Forecasted Walmart sales by transformer / DeepAR / N-BEATS (Kaggle M5 contest).
+
+skills:
+  - Java 8/11
+  - Jakarta EE
+  - C/C++
+  - Python
+  - Perl
+  - UNIX bash script
+  - JSON/XML
+  - Design Patterns
+  - UML (Rational)
+  - Eclipse
+  - IntelliJ
+  - Git
+  - JIRA
+  - JUnit
+  - Selenium
+  - Espresso
+  - Maven
+  - Gradle
+  - Jenkins
+  - SDLC
+  - Agile
+  - DevOps
+  - CI/CD
+  - VMware
+  - Docker
+  - Kubernetes
+  - jQuery
+  - Node.js
+  - React.js
+  - JSF
+  - Spring
+  - Struts
+  - REST
+  - iOS/Android
+  - Balsamiq
+  - Axure RP
+  - NumPy
+  - SciPy
+  - Pandas
+  - OpenCV
+  - PyTorch
+  - RLlib
+  - Colab
+  - MLP
+  - CNN
+  - DQN
+  - Linux
+  - TCP/IP
+  - SNMP
+  - mail
+  - Apache
+  - Wildfly
+  - routers
+  - storage
+  - backup
+  - GCP
+  - AWS
+  - Oracle
+  - MySQL
+  - MS SQL
+  - PL/SQL
+  - NoSQL
+  - data structure/warehouse design
